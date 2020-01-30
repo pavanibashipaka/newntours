@@ -1,2 +1,2 @@
 # newntours
-project
+project for git commands demostration
